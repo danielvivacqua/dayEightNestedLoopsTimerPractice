@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayEightNestedLoopsTimerPractice\dayEightNestedLoopsTimerPractice\bin\Debug\dayEightNestedLoopsTimerPractice.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayEightNestedLoopsTimerPractice\dayEightNestedLoopsTimerPractice\obj\Debug\dayEightNestedLoopsTimerPractice.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayEightNestedLoopsTimerPractice\dayEightNestedLoopsTimerPractice\bin\Debug\dayEightNestedLoopsTimerPractice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayEightNestedLoopsTimerPractice\dayEightNestedLoopsTimerPractice\bin\Debug\dayEightNestedLoopsTimerPractice.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayEightNestedLoopsTimerPractice\dayEightNestedLoopsTimerPractice\obj\Debug\dayEightNestedLoopsTimerPractice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayEightNestedLoopsTimerPractice\dayEightNestedLoopsTimerPractice\obj\Debug\dayEightNestedLoopsTimerPractice.pdb
